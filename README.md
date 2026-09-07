@@ -62,6 +62,9 @@ An end-to-end **AI/ML sales intelligence application** that predicts lead conver
 
 **AI Sales Lead Prediction & Analytics System** is an end-to-end machine-learning application designed to transform historical sales data into actionable lead intelligence.
 
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.38:8501
+
 The platform allows sales teams to:
 
 > **Understand → Predict → Prioritize → Take Action**
