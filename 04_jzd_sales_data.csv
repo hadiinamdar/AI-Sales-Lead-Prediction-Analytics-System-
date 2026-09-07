@@ -1,0 +1,501 @@
+lead_id,industry,service,lead_source,budget_inr,first_response_hours,followup_count,converted,days_to_conversion
+1,CA/Accounting,Automation,Referral,25000,7,3,0,
+2,Retail,Chatbot,Email,35000,11,4,0,
+3,Manufacturing,Training/Courses,Instagram,150000,10,2,1,13.0
+4,Logistics,AI/ML Solution,Referral,25000,8,4,0,
+5,Professional Services,Mobile App,Instagram,15000,8,2,1,4.0
+6,Hospitality,Chatbot,Referral,250000,8,3,0,
+7,Education,Data Analytics,Website,100000,2,3,1,14.0
+8,E-commerce,Data Analytics,Website,150000,10,5,1,27.0
+9,Real Estate,Chatbot,Website,250000,1,2,0,
+10,Retail,Chatbot,WhatsApp,15000,10,3,0,
+11,CA/Accounting,Data Analytics,LinkedIn,35000,14,5,0,
+12,Logistics,Chatbot,Website,50000,3,3,0,
+13,Logistics,Chatbot,Cold Outreach,50000,9,2,0,
+14,Hospitality,AI/ML Solution,Cold Outreach,15000,7,4,0,
+15,Real Estate,AI/ML Solution,LinkedIn,75000,2,3,0,
+16,Healthcare,E-commerce Development,WhatsApp,15000,14,1,0,
+17,Healthcare,Website Development,Instagram,50000,10,4,0,
+18,Logistics,Data Analytics,Website,35000,12,3,1,10.0
+19,Real Estate,Website Development,LinkedIn,150000,3,5,0,
+20,E-commerce,E-commerce Development,WhatsApp,25000,2,3,0,
+21,Professional Services,Training/Courses,Cold Outreach,100000,6,5,0,
+22,E-commerce,E-commerce Development,Referral,50000,6,4,0,
+23,Logistics,Website Development,WhatsApp,75000,10,3,0,
+24,Professional Services,Website Development,Website,250000,14,3,0,
+25,Manufacturing,Mobile App,WhatsApp,25000,8,5,1,42.0
+26,Professional Services,Training/Courses,Website,25000,5,4,1,26.0
+27,Hospitality,AI/ML Solution,Website,35000,10,0,0,
+28,Real Estate,Data Analytics,Referral,75000,12,4,1,17.0
+29,Professional Services,Mobile App,Website,25000,13,0,1,11.0
+30,E-commerce,Chatbot,Referral,250000,8,0,1,26.0
+31,Education,Mobile App,Instagram,250000,11,2,0,
+32,Manufacturing,Mobile App,WhatsApp,25000,3,2,0,
+33,Hospitality,Mobile App,Instagram,75000,5,1,0,
+34,Hospitality,AI/ML Solution,WhatsApp,250000,9,3,0,
+35,Retail,E-commerce Development,Cold Outreach,25000,8,3,0,
+36,Retail,Mobile App,Website,100000,7,5,1,37.0
+37,Healthcare,Website Development,Email,100000,12,5,0,
+38,Retail,Mobile App,Instagram,150000,1,2,1,16.0
+39,CA/Accounting,Automation,Email,75000,3,0,0,
+40,Hospitality,E-commerce Development,Email,50000,7,5,0,
+41,Healthcare,Training/Courses,LinkedIn,25000,9,1,1,15.0
+42,Hospitality,Data Analytics,Website,75000,3,0,1,34.0
+43,Logistics,Chatbot,Cold Outreach,150000,4,5,1,41.0
+44,E-commerce,Website Development,Email,75000,13,2,1,15.0
+45,CA/Accounting,AI/ML Solution,Instagram,75000,7,2,0,
+46,Hospitality,Data Analytics,Website,35000,12,1,0,
+47,Healthcare,Mobile App,Website,35000,14,0,1,30.0
+48,CA/Accounting,E-commerce Development,WhatsApp,50000,12,3,0,
+49,Manufacturing,Mobile App,Referral,100000,14,5,0,
+50,Healthcare,Data Analytics,Instagram,100000,10,3,0,
+51,Logistics,E-commerce Development,Website,35000,14,0,0,
+52,Healthcare,Website Development,WhatsApp,25000,11,5,1,15.0
+53,Real Estate,Training/Courses,WhatsApp,150000,9,2,1,10.0
+54,Professional Services,Training/Courses,Referral,75000,11,0,0,
+55,Education,E-commerce Development,Instagram,150000,1,2,1,26.0
+56,Retail,Automation,WhatsApp,250000,11,5,1,26.0
+57,E-commerce,Automation,Website,50000,9,3,0,
+58,Manufacturing,Website Development,Website,50000,1,1,0,
+59,Real Estate,Chatbot,Cold Outreach,35000,14,1,0,
+60,Real Estate,Automation,Instagram,25000,5,0,0,
+61,CA/Accounting,Training/Courses,WhatsApp,150000,11,0,0,
+62,Healthcare,AI/ML Solution,Referral,50000,12,5,1,34.0
+63,E-commerce,Data Analytics,Website,150000,1,0,1,4.0
+64,CA/Accounting,Mobile App,Website,250000,5,3,0,
+65,Retail,Data Analytics,Email,150000,6,3,1,19.0
+66,Logistics,Mobile App,WhatsApp,150000,6,4,0,
+67,Real Estate,E-commerce Development,Referral,15000,6,5,0,
+68,Hospitality,AI/ML Solution,Cold Outreach,250000,1,0,0,
+69,Hospitality,E-commerce Development,Referral,25000,6,4,0,
+70,Education,Mobile App,Email,150000,12,2,1,28.0
+71,E-commerce,E-commerce Development,Referral,75000,3,2,1,9.0
+72,Hospitality,Chatbot,Instagram,35000,4,0,0,
+73,Retail,E-commerce Development,Email,50000,7,1,0,
+74,Hospitality,Data Analytics,WhatsApp,35000,11,3,0,
+75,Education,E-commerce Development,LinkedIn,75000,2,5,0,
+76,Education,AI/ML Solution,Email,35000,7,3,1,4.0
+77,Retail,AI/ML Solution,Cold Outreach,250000,1,5,0,
+78,Professional Services,Training/Courses,WhatsApp,100000,5,2,1,43.0
+79,Hospitality,AI/ML Solution,Referral,25000,3,2,0,
+80,Professional Services,Training/Courses,WhatsApp,75000,3,3,0,
+81,Real Estate,Website Development,Instagram,25000,8,0,0,
+82,Real Estate,Training/Courses,Referral,15000,11,0,1,40.0
+83,CA/Accounting,Data Analytics,Cold Outreach,75000,8,3,0,
+84,Retail,E-commerce Development,Email,150000,14,0,0,
+85,Professional Services,Website Development,Referral,50000,13,1,1,20.0
+86,Hospitality,Training/Courses,Email,35000,2,5,0,
+87,CA/Accounting,Training/Courses,Website,100000,13,0,1,6.0
+88,Retail,AI/ML Solution,Website,50000,1,5,0,
+89,Professional Services,Training/Courses,Email,35000,4,2,0,
+90,Hospitality,Data Analytics,Instagram,150000,1,3,0,
+91,Manufacturing,Data Analytics,WhatsApp,15000,6,5,0,
+92,Hospitality,E-commerce Development,Instagram,25000,6,5,0,
+93,E-commerce,Mobile App,Instagram,75000,6,2,0,
+94,Logistics,AI/ML Solution,Instagram,25000,5,5,0,
+95,Logistics,AI/ML Solution,Instagram,75000,1,4,1,21.0
+96,Manufacturing,AI/ML Solution,Email,25000,4,2,0,
+97,Real Estate,Mobile App,WhatsApp,100000,1,3,0,
+98,Healthcare,E-commerce Development,WhatsApp,150000,13,5,0,
+99,E-commerce,Data Analytics,Website,100000,3,3,1,26.0
+100,Real Estate,AI/ML Solution,LinkedIn,100000,13,0,0,
+101,Professional Services,Chatbot,LinkedIn,35000,3,3,0,
+102,Healthcare,E-commerce Development,Instagram,25000,13,4,0,
+103,E-commerce,Website Development,WhatsApp,100000,1,2,1,27.0
+104,Logistics,AI/ML Solution,Email,150000,10,5,0,
+105,Healthcare,AI/ML Solution,LinkedIn,35000,8,5,1,34.0
+106,Professional Services,Website Development,Referral,100000,6,1,1,44.0
+107,Education,Training/Courses,Email,75000,2,1,0,
+108,Professional Services,Chatbot,Email,50000,1,0,0,
+109,Real Estate,Training/Courses,Cold Outreach,50000,7,4,0,
+110,Hospitality,Training/Courses,Referral,75000,10,2,1,26.0
+111,Manufacturing,Mobile App,LinkedIn,50000,13,3,0,
+112,Logistics,AI/ML Solution,Cold Outreach,75000,9,3,0,
+113,CA/Accounting,Training/Courses,Cold Outreach,100000,1,5,0,
+114,E-commerce,E-commerce Development,WhatsApp,25000,12,2,0,
+115,Real Estate,E-commerce Development,Cold Outreach,35000,12,1,1,25.0
+116,Real Estate,Training/Courses,Email,35000,6,2,0,
+117,Manufacturing,E-commerce Development,LinkedIn,250000,14,4,0,
+118,Hospitality,Website Development,Referral,15000,10,5,1,44.0
+119,Manufacturing,Data Analytics,LinkedIn,150000,6,5,0,
+120,Retail,Data Analytics,LinkedIn,15000,5,0,0,
+121,Hospitality,E-commerce Development,Cold Outreach,100000,12,3,0,
+122,Healthcare,AI/ML Solution,Website,75000,7,3,0,
+123,Professional Services,AI/ML Solution,Cold Outreach,250000,4,5,0,
+124,Professional Services,Website Development,Website,15000,7,3,1,44.0
+125,Real Estate,Chatbot,Cold Outreach,35000,14,2,0,
+126,E-commerce,Mobile App,Website,75000,3,3,0,
+127,Education,Automation,Website,15000,10,4,1,25.0
+128,Education,Mobile App,WhatsApp,250000,9,3,0,
+129,Retail,E-commerce Development,Cold Outreach,250000,10,1,1,36.0
+130,Logistics,Website Development,WhatsApp,50000,14,5,0,
+131,Healthcare,Automation,Referral,15000,8,4,1,18.0
+132,Logistics,Data Analytics,LinkedIn,150000,13,4,0,
+133,Healthcare,E-commerce Development,Email,100000,7,2,1,18.0
+134,Retail,Website Development,Referral,250000,3,4,1,31.0
+135,CA/Accounting,Mobile App,Instagram,75000,14,3,1,32.0
+136,CA/Accounting,Data Analytics,Cold Outreach,25000,14,5,0,
+137,Hospitality,Chatbot,WhatsApp,25000,12,1,0,
+138,Logistics,Data Analytics,LinkedIn,15000,5,3,1,32.0
+139,Hospitality,Data Analytics,Cold Outreach,35000,5,1,0,
+140,Professional Services,Training/Courses,WhatsApp,35000,5,3,1,33.0
+141,Healthcare,E-commerce Development,WhatsApp,250000,10,1,0,
+142,CA/Accounting,Automation,LinkedIn,15000,1,4,0,
+143,Education,Website Development,Instagram,75000,8,1,1,34.0
+144,E-commerce,Mobile App,Cold Outreach,250000,11,3,0,
+145,Real Estate,Website Development,Cold Outreach,50000,2,2,0,
+146,Real Estate,Data Analytics,Cold Outreach,15000,1,4,0,
+147,Hospitality,Automation,Website,100000,5,3,0,
+148,Manufacturing,Mobile App,WhatsApp,250000,1,1,1,31.0
+149,Manufacturing,Data Analytics,LinkedIn,250000,13,3,1,4.0
+150,Professional Services,Data Analytics,Cold Outreach,75000,13,2,0,
+151,Retail,Mobile App,Website,150000,7,0,0,
+152,Logistics,AI/ML Solution,Email,75000,13,1,0,
+153,Hospitality,E-commerce Development,Website,100000,14,1,1,9.0
+154,Real Estate,Automation,Referral,150000,4,1,0,
+155,Healthcare,Training/Courses,Instagram,250000,13,2,0,
+156,CA/Accounting,Data Analytics,Email,150000,4,0,0,
+157,Real Estate,Website Development,Website,150000,9,3,1,11.0
+158,Hospitality,AI/ML Solution,Website,35000,8,2,0,
+159,Logistics,Training/Courses,Website,35000,4,1,0,
+160,Retail,Chatbot,Cold Outreach,100000,8,5,0,
+161,Hospitality,Mobile App,Email,15000,12,0,0,
+162,Logistics,AI/ML Solution,WhatsApp,250000,7,0,1,32.0
+163,Hospitality,Data Analytics,Referral,25000,1,0,0,
+164,Logistics,AI/ML Solution,Email,100000,9,5,1,21.0
+165,Manufacturing,Data Analytics,WhatsApp,75000,1,3,1,43.0
+166,Education,E-commerce Development,Website,35000,3,3,0,
+167,Professional Services,Mobile App,Email,25000,12,5,0,
+168,Real Estate,Automation,WhatsApp,250000,4,2,0,
+169,Education,Automation,WhatsApp,250000,5,4,1,27.0
+170,Education,E-commerce Development,LinkedIn,25000,4,2,0,
+171,Professional Services,AI/ML Solution,WhatsApp,250000,5,0,1,44.0
+172,Retail,Data Analytics,WhatsApp,100000,10,5,0,
+173,Retail,Automation,Instagram,35000,5,2,0,
+174,Healthcare,Data Analytics,Email,50000,11,2,1,14.0
+175,Retail,Chatbot,Cold Outreach,35000,9,1,0,
+176,Education,Training/Courses,Website,100000,1,4,0,
+177,E-commerce,Data Analytics,Referral,35000,14,4,1,11.0
+178,Logistics,E-commerce Development,Website,75000,2,2,0,
+179,Manufacturing,Training/Courses,Email,150000,5,4,1,21.0
+180,Manufacturing,E-commerce Development,LinkedIn,100000,8,4,0,
+181,Retail,Training/Courses,Referral,100000,4,0,0,
+182,Healthcare,AI/ML Solution,Cold Outreach,35000,9,4,0,
+183,Manufacturing,Website Development,Cold Outreach,25000,6,3,1,41.0
+184,E-commerce,AI/ML Solution,Instagram,35000,11,1,0,
+185,Healthcare,Data Analytics,WhatsApp,50000,7,5,0,
+186,Hospitality,Automation,Cold Outreach,25000,13,1,0,
+187,Real Estate,Chatbot,WhatsApp,75000,10,3,1,43.0
+188,Healthcare,Automation,Email,25000,7,0,0,
+189,E-commerce,AI/ML Solution,Email,35000,12,5,0,
+190,Healthcare,Data Analytics,Cold Outreach,15000,12,0,1,35.0
+191,CA/Accounting,E-commerce Development,Website,75000,6,4,0,
+192,Education,Mobile App,Email,15000,12,4,0,
+193,Professional Services,Automation,WhatsApp,75000,13,4,1,23.0
+194,Professional Services,Chatbot,Cold Outreach,150000,11,3,1,37.0
+195,Real Estate,Training/Courses,Website,15000,3,3,1,43.0
+196,Healthcare,Training/Courses,Referral,250000,1,5,1,3.0
+197,Professional Services,Chatbot,Instagram,35000,5,5,0,
+198,Hospitality,Data Analytics,WhatsApp,100000,7,0,0,
+199,Manufacturing,AI/ML Solution,Cold Outreach,100000,10,5,0,
+200,E-commerce,E-commerce Development,Instagram,50000,12,4,0,
+201,Professional Services,E-commerce Development,Instagram,250000,12,3,0,
+202,Education,AI/ML Solution,Website,15000,10,3,0,
+203,Real Estate,Mobile App,Cold Outreach,150000,12,4,0,
+204,Education,AI/ML Solution,Cold Outreach,100000,11,5,1,11.0
+205,Logistics,Data Analytics,LinkedIn,35000,1,4,0,
+206,Professional Services,Training/Courses,Referral,75000,12,4,1,37.0
+207,Professional Services,Website Development,Website,150000,13,5,0,
+208,E-commerce,Training/Courses,LinkedIn,50000,5,0,0,
+209,Logistics,Data Analytics,Website,15000,8,5,0,
+210,Real Estate,Training/Courses,Email,250000,13,4,1,35.0
+211,Real Estate,Website Development,Cold Outreach,25000,6,0,0,
+212,Manufacturing,AI/ML Solution,Instagram,100000,1,2,0,
+213,Manufacturing,Data Analytics,Website,150000,9,5,0,
+214,CA/Accounting,Chatbot,Instagram,75000,1,4,1,43.0
+215,Retail,Mobile App,Email,250000,3,0,1,8.0
+216,E-commerce,Automation,Cold Outreach,25000,12,0,0,
+217,Healthcare,E-commerce Development,Referral,100000,5,5,0,
+218,Hospitality,Data Analytics,Cold Outreach,35000,7,4,0,
+219,Education,Mobile App,Email,15000,10,1,0,
+220,CA/Accounting,Website Development,LinkedIn,100000,5,5,1,3.0
+221,Professional Services,Training/Courses,LinkedIn,35000,3,4,0,
+222,Hospitality,Data Analytics,LinkedIn,150000,14,0,0,
+223,Logistics,Automation,Email,100000,2,3,1,41.0
+224,E-commerce,Training/Courses,WhatsApp,75000,10,1,0,
+225,Professional Services,Website Development,Instagram,100000,6,2,0,
+226,Retail,Mobile App,Email,75000,12,0,0,
+227,CA/Accounting,Training/Courses,Instagram,50000,5,5,0,
+228,CA/Accounting,Training/Courses,LinkedIn,150000,9,0,1,25.0
+229,Healthcare,Chatbot,Website,25000,5,4,0,
+230,Education,Website Development,Referral,100000,11,2,0,
+231,Manufacturing,AI/ML Solution,Referral,50000,12,1,0,
+232,Manufacturing,Training/Courses,Cold Outreach,15000,2,1,0,
+233,Healthcare,Chatbot,Email,100000,11,2,0,
+234,Professional Services,Mobile App,Instagram,35000,4,0,0,
+235,Professional Services,Data Analytics,Email,100000,8,3,1,44.0
+236,Real Estate,Training/Courses,LinkedIn,50000,3,0,0,
+237,Real Estate,Automation,LinkedIn,75000,4,1,0,
+238,Real Estate,Chatbot,WhatsApp,250000,10,0,0,
+239,Hospitality,Training/Courses,Instagram,75000,8,4,0,
+240,Real Estate,E-commerce Development,Email,150000,5,1,0,
+241,Manufacturing,Data Analytics,Cold Outreach,35000,11,2,0,
+242,Real Estate,Website Development,Instagram,25000,3,0,0,
+243,Hospitality,Training/Courses,WhatsApp,75000,11,5,0,
+244,Professional Services,Chatbot,LinkedIn,75000,4,3,0,
+245,E-commerce,Automation,LinkedIn,25000,3,2,0,
+246,Logistics,Chatbot,LinkedIn,15000,2,4,1,21.0
+247,E-commerce,Chatbot,WhatsApp,50000,5,4,0,
+248,CA/Accounting,E-commerce Development,Referral,100000,10,4,1,8.0
+249,Professional Services,E-commerce Development,WhatsApp,35000,1,4,0,
+250,CA/Accounting,AI/ML Solution,Referral,250000,10,5,1,16.0
+251,Professional Services,Chatbot,Cold Outreach,75000,10,4,0,
+252,Hospitality,Automation,WhatsApp,15000,10,0,0,
+253,Retail,Chatbot,Email,15000,6,5,1,19.0
+254,Healthcare,Mobile App,Cold Outreach,35000,10,3,0,
+255,CA/Accounting,Mobile App,Cold Outreach,250000,1,2,1,17.0
+256,Healthcare,Automation,Website,15000,8,5,1,30.0
+257,Real Estate,E-commerce Development,Instagram,75000,7,5,0,
+258,Professional Services,Training/Courses,LinkedIn,250000,13,1,1,9.0
+259,Real Estate,Chatbot,Cold Outreach,25000,3,5,0,
+260,Hospitality,AI/ML Solution,WhatsApp,250000,12,4,0,
+261,Real Estate,AI/ML Solution,Website,100000,6,2,0,
+262,Real Estate,Chatbot,LinkedIn,150000,9,4,1,41.0
+263,Manufacturing,Data Analytics,Website,150000,9,0,1,28.0
+264,Retail,AI/ML Solution,LinkedIn,250000,14,3,1,15.0
+265,Hospitality,Chatbot,Website,75000,4,0,0,
+266,Manufacturing,Chatbot,Referral,75000,3,0,0,
+267,Hospitality,Automation,Email,15000,4,5,0,
+268,Real Estate,Data Analytics,WhatsApp,50000,8,0,0,
+269,CA/Accounting,E-commerce Development,Referral,75000,10,0,1,28.0
+270,Healthcare,Mobile App,WhatsApp,75000,2,2,0,
+271,Retail,Automation,Instagram,50000,13,5,0,
+272,Education,AI/ML Solution,Referral,35000,1,4,1,8.0
+273,Professional Services,Data Analytics,Referral,250000,6,3,0,
+274,E-commerce,Chatbot,Cold Outreach,50000,14,5,0,
+275,Logistics,E-commerce Development,Email,250000,8,0,1,33.0
+276,E-commerce,Data Analytics,Website,25000,8,4,0,
+277,CA/Accounting,Chatbot,Email,35000,6,1,0,
+278,Healthcare,Data Analytics,Cold Outreach,250000,11,3,1,32.0
+279,Retail,Chatbot,WhatsApp,250000,8,5,0,
+280,Retail,Training/Courses,Cold Outreach,15000,9,1,0,
+281,Professional Services,AI/ML Solution,Email,150000,8,1,0,
+282,Professional Services,Website Development,Email,250000,12,4,1,6.0
+283,Real Estate,Website Development,Referral,75000,3,3,0,
+284,CA/Accounting,Chatbot,Email,25000,1,3,1,28.0
+285,CA/Accounting,Mobile App,Instagram,25000,14,5,0,
+286,E-commerce,Website Development,Website,250000,11,3,1,5.0
+287,CA/Accounting,Automation,Referral,35000,1,5,0,
+288,Healthcare,Mobile App,Instagram,150000,10,4,1,4.0
+289,Professional Services,Mobile App,Referral,25000,13,1,1,39.0
+290,E-commerce,AI/ML Solution,WhatsApp,100000,9,0,1,17.0
+291,Retail,AI/ML Solution,Email,150000,8,5,0,
+292,E-commerce,AI/ML Solution,WhatsApp,50000,14,0,0,
+293,CA/Accounting,Website Development,Instagram,250000,12,3,0,
+294,E-commerce,Mobile App,Email,150000,5,2,0,
+295,Education,Chatbot,Referral,100000,12,2,1,42.0
+296,Healthcare,Automation,LinkedIn,25000,6,3,0,
+297,CA/Accounting,Mobile App,Email,15000,8,2,0,
+298,Education,Chatbot,Website,25000,14,3,1,23.0
+299,Logistics,Website Development,Referral,15000,5,4,1,16.0
+300,Education,Website Development,Referral,250000,10,5,1,44.0
+301,Education,Chatbot,Cold Outreach,15000,9,1,0,
+302,Healthcare,Automation,LinkedIn,100000,7,5,0,
+303,Logistics,Data Analytics,LinkedIn,75000,13,5,0,
+304,Healthcare,Chatbot,Referral,75000,1,0,1,4.0
+305,Real Estate,Website Development,Email,35000,14,4,0,
+306,Manufacturing,Training/Courses,Website,100000,3,2,0,
+307,Manufacturing,Data Analytics,WhatsApp,150000,3,2,0,
+308,Manufacturing,AI/ML Solution,Instagram,150000,4,4,0,
+309,Healthcare,Training/Courses,LinkedIn,50000,14,2,0,
+310,Real Estate,AI/ML Solution,Cold Outreach,250000,6,0,0,
+311,CA/Accounting,Mobile App,Referral,35000,5,2,0,
+312,Manufacturing,Chatbot,Instagram,50000,14,3,0,
+313,Hospitality,E-commerce Development,Referral,100000,10,4,0,
+314,Retail,Chatbot,Website,75000,1,5,0,
+315,Manufacturing,Website Development,Cold Outreach,25000,4,4,1,17.0
+316,Education,Chatbot,Referral,50000,13,4,0,
+317,Hospitality,Automation,Website,50000,4,3,0,
+318,Education,E-commerce Development,WhatsApp,250000,11,2,0,
+319,Education,Chatbot,Referral,50000,4,1,1,7.0
+320,E-commerce,Data Analytics,Cold Outreach,75000,4,2,0,
+321,Manufacturing,Training/Courses,Email,100000,8,5,1,25.0
+322,Real Estate,Automation,Instagram,250000,10,5,0,
+323,Professional Services,E-commerce Development,Cold Outreach,250000,10,4,1,20.0
+324,Hospitality,Chatbot,Instagram,100000,9,0,1,45.0
+325,Manufacturing,Website Development,Email,50000,12,3,0,
+326,Healthcare,Website Development,Instagram,150000,4,4,0,
+327,Real Estate,AI/ML Solution,LinkedIn,100000,8,1,0,
+328,Education,Mobile App,Email,50000,10,0,0,
+329,Professional Services,Data Analytics,Instagram,250000,13,5,0,
+330,Professional Services,Training/Courses,LinkedIn,100000,6,2,0,
+331,Healthcare,AI/ML Solution,WhatsApp,250000,14,4,0,
+332,Healthcare,Website Development,Email,15000,14,3,1,3.0
+333,Retail,Website Development,Cold Outreach,15000,6,2,0,
+334,Manufacturing,AI/ML Solution,Cold Outreach,50000,5,0,0,
+335,Retail,AI/ML Solution,Website,50000,10,3,0,
+336,E-commerce,Training/Courses,Instagram,15000,10,0,1,27.0
+337,Logistics,Training/Courses,WhatsApp,250000,10,2,0,
+338,CA/Accounting,Website Development,Email,150000,7,1,0,
+339,CA/Accounting,Website Development,Email,75000,11,0,0,
+340,E-commerce,Automation,Website,150000,11,3,0,
+341,Healthcare,E-commerce Development,Website,35000,6,0,0,
+342,Education,Chatbot,Email,75000,6,4,0,
+343,Hospitality,Automation,Cold Outreach,150000,1,4,0,
+344,Retail,Data Analytics,Referral,250000,6,1,1,23.0
+345,Logistics,Chatbot,WhatsApp,50000,1,0,0,
+346,Real Estate,E-commerce Development,WhatsApp,15000,1,3,0,
+347,Retail,Mobile App,Referral,150000,12,4,1,9.0
+348,E-commerce,Training/Courses,Website,15000,1,4,0,
+349,Healthcare,E-commerce Development,Referral,150000,3,2,0,
+350,Hospitality,E-commerce Development,Email,15000,14,5,0,
+351,Education,Chatbot,Cold Outreach,250000,13,4,0,
+352,Real Estate,Website Development,Website,75000,8,2,1,16.0
+353,E-commerce,Website Development,LinkedIn,100000,3,1,0,
+354,CA/Accounting,Chatbot,Email,35000,12,0,0,
+355,Manufacturing,E-commerce Development,Instagram,35000,6,2,1,3.0
+356,Logistics,Chatbot,Email,150000,8,4,1,5.0
+357,E-commerce,Data Analytics,Referral,35000,10,1,0,
+358,Retail,Data Analytics,Website,25000,2,3,0,
+359,Manufacturing,Chatbot,Cold Outreach,25000,7,3,0,
+360,Hospitality,Mobile App,Cold Outreach,100000,7,4,0,
+361,CA/Accounting,Automation,Cold Outreach,250000,9,2,1,10.0
+362,Professional Services,Chatbot,Instagram,150000,6,0,0,
+363,Manufacturing,AI/ML Solution,WhatsApp,150000,3,2,0,
+364,Retail,Automation,Cold Outreach,50000,8,1,0,
+365,Retail,E-commerce Development,Instagram,35000,8,5,0,
+366,Manufacturing,AI/ML Solution,WhatsApp,150000,14,2,0,
+367,Hospitality,Data Analytics,Website,25000,4,4,1,16.0
+368,CA/Accounting,Automation,Referral,100000,7,1,1,9.0
+369,Real Estate,E-commerce Development,LinkedIn,25000,1,4,1,21.0
+370,Healthcare,Mobile App,Referral,150000,4,4,0,
+371,Retail,Website Development,Website,100000,2,0,0,
+372,E-commerce,E-commerce Development,Email,100000,4,2,1,4.0
+373,Manufacturing,Website Development,Instagram,150000,3,3,0,
+374,Manufacturing,E-commerce Development,WhatsApp,50000,5,5,0,
+375,Logistics,AI/ML Solution,WhatsApp,150000,9,1,0,
+376,Healthcare,AI/ML Solution,Instagram,75000,3,3,0,
+377,Real Estate,Training/Courses,LinkedIn,25000,12,0,0,
+378,Healthcare,Mobile App,Instagram,150000,8,2,0,
+379,Real Estate,Training/Courses,Cold Outreach,25000,1,1,1,16.0
+380,Hospitality,Automation,LinkedIn,250000,9,1,0,
+381,Logistics,Chatbot,Referral,25000,7,0,1,45.0
+382,Healthcare,Automation,Website,150000,14,3,1,31.0
+383,Hospitality,Mobile App,Cold Outreach,100000,13,1,0,
+384,Professional Services,Data Analytics,Referral,35000,11,5,0,
+385,Real Estate,Data Analytics,Email,50000,5,1,0,
+386,Professional Services,Data Analytics,LinkedIn,150000,6,1,0,
+387,Hospitality,Automation,WhatsApp,250000,9,5,0,
+388,Logistics,Chatbot,Instagram,150000,7,4,1,23.0
+389,Real Estate,Mobile App,Instagram,25000,11,0,0,
+390,Logistics,Chatbot,Email,35000,11,1,0,
+391,E-commerce,Website Development,WhatsApp,250000,9,4,1,19.0
+392,Education,Training/Courses,Cold Outreach,75000,10,4,0,
+393,Retail,Mobile App,WhatsApp,250000,10,5,1,45.0
+394,Healthcare,Automation,LinkedIn,75000,1,2,1,28.0
+395,Healthcare,Mobile App,Cold Outreach,150000,13,4,0,
+396,Retail,Training/Courses,Email,250000,11,3,0,
+397,Logistics,Mobile App,Email,150000,7,2,0,
+398,E-commerce,Website Development,Cold Outreach,100000,7,5,1,35.0
+399,E-commerce,E-commerce Development,Website,50000,10,3,0,
+400,Hospitality,AI/ML Solution,WhatsApp,15000,3,2,0,
+401,Logistics,Mobile App,Cold Outreach,100000,1,5,0,
+402,Manufacturing,E-commerce Development,Website,25000,11,1,0,
+403,Real Estate,Chatbot,Email,50000,2,4,0,
+404,Professional Services,Data Analytics,Referral,250000,8,0,0,
+405,Logistics,AI/ML Solution,Instagram,15000,13,2,0,
+406,Professional Services,E-commerce Development,Instagram,150000,9,2,0,
+407,Retail,E-commerce Development,Cold Outreach,35000,5,3,0,
+408,Hospitality,Automation,Instagram,250000,14,5,0,
+409,Education,Training/Courses,Instagram,250000,3,4,1,19.0
+410,Retail,Training/Courses,WhatsApp,250000,10,0,0,
+411,Hospitality,E-commerce Development,Instagram,15000,12,5,0,
+412,Retail,Website Development,Cold Outreach,100000,3,4,0,
+413,Retail,AI/ML Solution,WhatsApp,50000,5,5,0,
+414,E-commerce,AI/ML Solution,Email,35000,8,0,0,
+415,Hospitality,Mobile App,Referral,50000,12,2,0,
+416,Manufacturing,AI/ML Solution,LinkedIn,150000,13,1,1,12.0
+417,Manufacturing,Website Development,WhatsApp,50000,7,0,0,
+418,Professional Services,Mobile App,Referral,15000,5,5,0,
+419,Education,Chatbot,Instagram,25000,14,4,0,
+420,Logistics,E-commerce Development,Cold Outreach,35000,3,1,0,
+421,Hospitality,Data Analytics,LinkedIn,250000,13,1,0,
+422,Retail,Automation,WhatsApp,250000,4,2,0,
+423,E-commerce,Data Analytics,Email,150000,10,0,0,
+424,Logistics,Mobile App,Email,25000,8,2,0,
+425,Hospitality,Data Analytics,Cold Outreach,250000,13,1,0,
+426,Logistics,AI/ML Solution,Cold Outreach,75000,11,1,0,
+427,Logistics,E-commerce Development,WhatsApp,35000,12,0,0,
+428,Hospitality,E-commerce Development,LinkedIn,75000,6,0,0,
+429,Retail,AI/ML Solution,Instagram,35000,1,4,0,
+430,E-commerce,Mobile App,Referral,35000,14,1,1,44.0
+431,Logistics,Mobile App,Referral,35000,2,5,1,15.0
+432,Professional Services,AI/ML Solution,Email,35000,13,1,0,
+433,Professional Services,Automation,LinkedIn,35000,3,2,0,
+434,Hospitality,Training/Courses,Email,15000,4,4,0,
+435,Hospitality,Website Development,Referral,35000,13,5,0,
+436,Education,Mobile App,Email,250000,9,3,0,
+437,Manufacturing,Training/Courses,Referral,250000,10,5,1,41.0
+438,Professional Services,AI/ML Solution,Website,15000,4,4,0,
+439,Education,Automation,Website,75000,1,2,0,
+440,Education,Automation,LinkedIn,250000,8,5,0,
+441,Logistics,Training/Courses,Email,25000,2,5,0,
+442,Logistics,E-commerce Development,Instagram,100000,1,4,0,
+443,E-commerce,Website Development,Cold Outreach,250000,9,0,0,
+444,E-commerce,Chatbot,Referral,25000,4,3,0,
+445,Education,Automation,Cold Outreach,15000,5,4,0,
+446,Professional Services,Automation,Instagram,25000,12,5,0,
+447,Professional Services,E-commerce Development,Cold Outreach,50000,14,2,0,
+448,Education,Data Analytics,Cold Outreach,150000,2,0,0,
+449,Healthcare,AI/ML Solution,Cold Outreach,50000,4,2,0,
+450,Education,Website Development,Email,100000,13,5,0,
+451,E-commerce,Automation,Email,35000,13,5,0,
+452,Hospitality,Automation,Instagram,75000,2,0,1,5.0
+453,E-commerce,E-commerce Development,LinkedIn,150000,8,5,0,
+454,CA/Accounting,Automation,Cold Outreach,35000,6,0,0,
+455,Healthcare,Chatbot,LinkedIn,100000,4,1,0,
+456,Education,Mobile App,Referral,35000,11,1,0,
+457,Logistics,Automation,WhatsApp,150000,2,5,0,
+458,Manufacturing,Training/Courses,Website,25000,3,2,1,27.0
+459,Manufacturing,Automation,WhatsApp,100000,9,3,0,
+460,Professional Services,Training/Courses,Instagram,15000,2,2,0,
+461,Retail,Training/Courses,WhatsApp,100000,3,2,1,11.0
+462,Retail,Mobile App,LinkedIn,150000,3,0,0,
+463,Education,Training/Courses,Instagram,100000,10,0,0,
+464,Real Estate,Data Analytics,Email,35000,9,4,0,
+465,Logistics,Training/Courses,Cold Outreach,100000,2,3,0,
+466,CA/Accounting,Website Development,Website,250000,8,2,0,
+467,CA/Accounting,E-commerce Development,Cold Outreach,35000,10,1,1,15.0
+468,Professional Services,Training/Courses,Website,150000,12,4,0,
+469,Education,AI/ML Solution,WhatsApp,75000,2,4,0,
+470,Healthcare,Automation,Website,100000,13,2,0,
+471,Real Estate,E-commerce Development,Instagram,35000,8,1,0,
+472,CA/Accounting,Mobile App,WhatsApp,75000,13,4,0,
+473,Education,Mobile App,WhatsApp,25000,8,2,0,
+474,Retail,Website Development,LinkedIn,250000,12,0,1,43.0
+475,Retail,AI/ML Solution,Email,50000,13,2,0,
+476,E-commerce,Training/Courses,Website,15000,5,1,1,29.0
+477,Hospitality,E-commerce Development,Cold Outreach,150000,6,3,1,45.0
+478,Healthcare,Training/Courses,Website,50000,13,1,0,
+479,Manufacturing,E-commerce Development,WhatsApp,25000,7,1,1,45.0
+480,Retail,Data Analytics,Instagram,75000,5,5,0,
+481,Healthcare,Mobile App,Cold Outreach,35000,2,3,0,
+482,Healthcare,E-commerce Development,Email,15000,13,4,0,
+483,Logistics,AI/ML Solution,Referral,100000,2,4,0,
+484,Education,AI/ML Solution,Referral,250000,1,0,0,
+485,Education,E-commerce Development,Website,35000,2,3,1,37.0
+486,Retail,Mobile App,Instagram,150000,6,2,0,
+487,Hospitality,AI/ML Solution,LinkedIn,75000,10,0,0,
+488,Retail,Chatbot,Email,75000,12,3,1,39.0
+489,CA/Accounting,Automation,LinkedIn,50000,13,5,0,
+490,Manufacturing,Automation,WhatsApp,15000,4,1,0,
+491,Education,Training/Courses,Referral,25000,1,3,1,12.0
+492,Education,Training/Courses,WhatsApp,25000,6,0,1,20.0
+493,E-commerce,Website Development,Instagram,100000,2,5,0,
+494,Healthcare,Mobile App,Cold Outreach,150000,13,3,0,
+495,Hospitality,AI/ML Solution,Cold Outreach,250000,3,3,0,
+496,Retail,Website Development,Email,25000,7,4,1,8.0
+497,CA/Accounting,Automation,LinkedIn,15000,3,2,0,
+498,CA/Accounting,Mobile App,Email,75000,10,1,0,
+499,E-commerce,Mobile App,Referral,150000,13,3,0,
+500,Retail,AI/ML Solution,Instagram,25000,13,0,0,
