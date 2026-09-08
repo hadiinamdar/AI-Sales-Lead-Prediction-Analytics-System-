@@ -1,5 +1,0 @@
-2026-09-07 22:50:13,344 | INFO | Dataset loaded successfully. Shape=(500, 9)
-2026-09-07 22:50:46,565 | INFO | ML model loaded successfully.
-2026-09-07 22:51:01,949 | INFO | Lead prediction generated. Probability=0.3679 Priority=LOW
-2026-09-07 22:54:55,912 | INFO | Dataset loaded successfully. Shape=(500, 9)
-2026-09-07 22:54:58,539 | INFO | ML model loaded successfully.
